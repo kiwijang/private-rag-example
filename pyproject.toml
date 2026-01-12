@@ -1,0 +1,10 @@
+[project]
+name = "private-rag-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab>=4.5.1",
+    "psycopg2-binary>=2.9.11",
+]
